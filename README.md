@@ -9,12 +9,6 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-## MIS ESTADISTICAS 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,3 +79,8 @@
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+
+## MIS ESTADISTICAS 🚀
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)

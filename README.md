@@ -1,5 +1,6 @@
 <h1 align="center">I am p3p4x</h1>
-<h3 align="center">Student offensive hacker 👾.</h3>
+<h3 align="center">Student offensive hacker
+      (RED TEAMING).</h3>
 
 <br>
 
